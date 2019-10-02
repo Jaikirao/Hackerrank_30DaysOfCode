@@ -1,6 +1,3 @@
-
-
-
 class MyBook:
     def __init__(self,title , author , price):
         self.author=author
